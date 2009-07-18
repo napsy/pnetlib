@@ -1,0 +1,8 @@
+pnet library
+=====================
+Version 0.0.1
+Copyright (C) 2009, Luka Napotnik <luka.napotnik@gmail.com>
+
+
+The pnet API calls are ment for simple network operations if you want to
+quickly add network suppport into your project.

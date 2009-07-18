@@ -1,0 +1,8 @@
+ - support for TLS sockets,
+ - support for local sockets for IPC use,
+ - more thread safety using mutexes,
+ - basic file transfer operations,
+ - packet scheduling if the connection should be optimized for frequent
+ transmission
+ - add real support for signals, vtable implementation would be great
+
